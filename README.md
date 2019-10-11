@@ -6,6 +6,7 @@
 
 
 
+### Program Background:
 This program simulates scheduling in order to demonstrate how the time required depends on the scheduling algorithm and the request patterns. This scheduling algorithms implemented are:
 
 1. First Come First Serve 
@@ -27,13 +28,13 @@ This program simulates scheduling in order to demonstrate how the time required 
 
 
 
-#### Program Specifications:
+### Program Specifications:
 
 <i> Programming Language Used: </i> Python 3
 
 
 
-#### How to run this program:
+### How to run this program:
 
 Before running to program, it is important to sync the "random-numbers.txt" file, which is currently located in .../src. Within .../src/helper.py, it is important to set the correct random number text file by:
 
